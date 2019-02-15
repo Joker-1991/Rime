@@ -20,5 +20,6 @@ patch:
       corner_radius: 6                          #候选条圆角
       border_height: 0 
       border_width: 0                          
+  style/font_point: 18
 
   "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
